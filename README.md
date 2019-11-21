@@ -14,7 +14,7 @@
 
 ---
 
-<p align="center"> 🍔 A simple online ordering website built with <b>React.js</b>, <b>Redux</b>, <b>Hooks</b>, and <b>Material-UI</b>.
+<p align="center"> A simple online ordering website built with <b>React.js</b>, <b>Redux</b>, <b>Hooks</b>, and <b>Material-UI</b>.
 <br/>
 <a src="https://online-order-milk-tea.herokuapp.com/" >https://online-order-milk-tea.herokuapp.com/</p>
 </p>
